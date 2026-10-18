@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Tiwari.</h1>
 
+![](https://github-profile-trophy.vercel.app/?username=Aryantiwari2911)
+
 # 💫 About Me:
 🔭 I’m currently working on Web development projects and a manual testing project on ShoppersStack.<br><br>👯 I’m looking to collaborate on Web development, open-source projects, and software testing projects.<br><br>🤝 I’m looking for help with Improving my problem-solving skills, writing better test cases, and learning automation testing.<br><br>🌱 I’m currently learning React.js, Core Java, MySQL, API Testing with Postman, and software testing fundamentals.<br><br>💬 Ask me about HTML, CSS, JavaScript, React basics, SQL, Manual Testing, API Testing, and Bug Reporting.<br><br>⚡ Fun fact I enjoy finding bugs in applications as much as building applications! 🚀
 
