@@ -18,6 +18,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+![Space Shooter Preview](./assets/space-shooter.gif)
 
 
 ---
