@@ -18,7 +18,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+![Space Shooter Preview](./space-shooter-preview.gif)
 
+[🚀 Play the Game](https://aryantiwari2911.github.io/space-shooter/)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Aryantiwari2911&icon=0&color=0)](https://visitcount.itsvg.in)
